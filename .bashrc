@@ -2,12 +2,6 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
-# My Makros
-alias startgui='cd /home/niklas.fuerst/Software/tools/GtkLoggerGui && ./run.sh'
-alias cddg='cd /home/niklas.fuerst/Projekte/datagenerator'
-alias cdws='cd /home/niklas.fuerst/Software/workingset'
-alias cdto='cd /home/niklas.fuerst/Software/tools'
-
 # My Functions
 
 # Function to go n directorys back ---------------------------------
